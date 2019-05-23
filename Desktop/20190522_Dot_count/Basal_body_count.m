@@ -60,4 +60,4 @@ for i=1:sz
         EffectAreaCount=EffectAreaCount+1;
     end
 end
-EffectAreaCount;
+Return EffectAreaCount;
